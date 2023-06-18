@@ -1,0 +1,202 @@
+{
+  "supermercados": [
+    {
+      "nombre": "Alcampo",
+      "direccion": "Av. de Pío XII, 4, 28016 Madrid",
+      "geolocalizacion": {
+        "latitud": 40.46291060253261,
+        "longitud": -3.6751257786729967
+      },
+      "productos": [
+        {
+          "nombre": "Bebida de soja",
+          "oferta": true,
+          "precio_oferta": 1.83,
+          "unidad_medida": "litro",
+          "precio_original": 2.15,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pan de semillas",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "unidad",
+          "precio_original": 0.75,
+          "adquirido": false
+        },
+        {
+          "nombre": "Alas de pollo",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "kg",
+          "precio_original": 2.54,
+          "adquirido": true
+        },
+        {
+          "nombre": "Yogur de fresas",
+          "oferta": true,
+          "precio_oferta": 2.19,
+          "unidad_medida": "pack",
+          "precio_original": 2.58,
+          "adquirido": true
+        },
+        {
+          "nombre": "Huevos ECO",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "pack",
+          "precio_original": 3.2,
+          "adquirido": true
+        },
+        {
+          "nombre": "Tomate cherry rama",
+          "oferta": true,
+          "precio_oferta": 3.05,
+          "unidad_medida": "pack",
+          "precio_original": 3.45,
+          "adquirido": false
+        },
+        {
+          "nombre": "Pimiento rojo",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "kg",
+          "precio_original": 2.8,
+          "adquirido": true
+        }
+      ]
+    },
+    {
+      "nombre": "Mercadona",
+      "direccion": "C. de Orduña, 6, 28034 Madrid",
+      "geolocalizacion": {
+        "latitud": 40.49760025489558,
+        "longitud": -3.691840085030887
+      },
+      "productos": [
+        {
+          "nombre": "Bebida de soja",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "litro",
+          "precio_original": 1.35,
+          "adquirido": true
+        },
+        {
+          "nombre": "Plátano",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "kg",
+          "precio_original": 1.3,
+          "adquirido": false
+        },
+        {
+          "nombre": "Hamburguesa de ternera",
+          "oferta": true,
+          "precio_oferta": 4,
+          "unidad_medida": "pack",
+          "precio_original": 5,
+          "adquirido": true
+        },
+        {
+          "nombre": "Cebolla",
+          "oferta": true,
+          "precio_oferta": 1.8,
+          "unidad_medida": "kg",
+          "precio_original": 2.3,
+          "adquirido": true
+        },
+        {
+          "nombre": "Arroz Basmati",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "unidad",
+          "precio_original": 3.2,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pimiento rojo",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "kg",
+          "precio_original": 2.85,
+          "adquirido": true
+        }
+      ]
+    },
+    {
+      "nombre": "Aldi",
+      "direccion": "C. Quintanavides, 6, 28050 Madrid",
+      "geolocalizacion": {
+        "latitud": 40.50308328308367,
+        "longitud": -3.6687627089656543
+      },
+      "productos": [
+        {
+          "nombre": "Cogollos",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "pack",
+          "precio_original": 1.09,
+          "adquirido": true
+        },
+        {
+          "nombre": "Queso Havarti",
+          "oferta": false,
+          "precio_oferta": 1.6,
+          "unidad_medida": "pack",
+          "precio_original": 3.09,
+          "adquirido": true
+        },
+        {
+          "nombre": "Pan de semillas",
+          "oferta": true,
+          "precio_oferta": 0.99,
+          "unidad_medida": "unidad",
+          "precio_original": 1.25,
+          "adquirido": true
+        },
+        {
+          "nombre": "Arroz Basmati",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "unidad",
+          "precio_original": 3,
+          "adquirido": true
+        },
+        {
+          "nombre": "Tomate cherry rama",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "pack",
+          "precio_original": 3,
+          "adquirido": false
+        },
+        {
+          "nombre": "Helado bombón",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "pack",
+          "precio_original": 2.59,
+          "adquirido": false
+        },
+        {
+          "nombre": "Barra chapata",
+          "oferta": false,
+          "precio_oferta": null,
+          "unidad_medida": "unidad",
+          "precio_original": 2,
+          "adquirido": false
+        },
+        {
+          "nombre": "Pimiento rojo",
+          "oferta": true,
+          "precio_oferta": 2.35,
+          "unidad_medida": "kg",
+          "precio_original": 2.45,
+          "adquirido": true
+        }
+      ]
+    }
+  ]
+}
