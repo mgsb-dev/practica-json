@@ -1,0 +1,81 @@
+<supermercados>
+  <supermercado>
+    <nombre>Alcampo</nombre>
+    <direccion>Av. de Pío XII, 4, 28016 Madrid</direccion>
+    <geolocalizacion>
+      <latitud>40.46291060253261</latitud>
+      <longitud>-3.6751257786729967</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Bebida de soja</nombre>
+        <oferta>true</oferta>
+        <precio_oferta>1.83</precio_oferta>
+        <unidad_medida>litro</unidad_medida>
+        <precio_original>2.15</precio_original>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pan de semillas</nombre>
+        <oferta>false</oferta>
+        <precio_oferta/>
+        <unidad_medida>unidad</unidad_medida>
+        <precio_original>0.75</precio_original>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Alas de pollo</nombre>
+        <oferta>false</oferta>
+        <precio_oferta/>
+        <unidad_medida>kg</unidad_medida>
+        <precio_original>2.54</precio_original>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Yogur de fresas</nombre>
+        <oferta>true</oferta>
+        <precio_oferta>2.19</precio_oferta>
+        <unidad_medida>pack</unidad_medida>
+        <precio_original>2.58</precio_original>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Huevos ECO</nombre>
+        <oferta>false</oferta>
+        <precio_oferta/>
+        <unidad_medida>pack</unidad_medida>
+        <precio_original>3.2</precio_original>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>Tomate cherry rama</nombre>
+        <oferta>true</oferta>
+        <precio_oferta>3.05</precio_oferta>
+        <unidad_medida>pack</unidad_medida>
+        <precio_original>3.45</precio_original>
+        <adquirido>false</adquirido>
+      </producto>
+      <producto>
+        <nombre>Pimiento rojo</nombre>
+        <oferta>false</oferta>
+        <precio_oferta/>
+        <unidad_medida>kg</unidad_medida>
+        <precio_original>2.8</precio_original>
+        <adquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>C. de Orduña, 6, 28034 Madrid</direccion>
+    <geolocalizacion>
+      <latitud>40.49760025489558</latitud>
+      <longitud>-3.691840085030887</longitud>
+    </geolocalizacion>
+    <productos>
+      <producto>
+        <nombre>Bebida de soja</nombre>
+        <oferta>false</oferta>
+        <precio_oferta/>
+        <unidad_medida>litro</unidad_medida>
+        <precio_original>1
